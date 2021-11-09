@@ -1,0 +1,12 @@
+html{
+    height: 300%;
+}
+main {
+    background-color: rgba(139, 140, 230, 0.164);
+    height: 200px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 78px;
+    padding-left: 240px;
+    padding-right: 240px;
+}

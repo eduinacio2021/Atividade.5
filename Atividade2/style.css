@@ -1,0 +1,31 @@
+html{
+height: 100%;
+}
+
+.center{
+    background: rgba(117, 119, 223, 0.514);
+    border: black solid 1px;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+h1{
+    margin-top: 60px;
+}
+
+p{
+    font-size: 0.7rem;
+}
+.label{
+    padding-top: 20px;
+}
+
+#minutos{
+    width: 50px;
+}
+
+#mostrar{
+    margin-top: 20px;
+}
